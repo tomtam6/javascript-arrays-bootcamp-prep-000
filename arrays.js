@@ -1,0 +1,1 @@
+var chocolateBars = [1, 2, 1];
